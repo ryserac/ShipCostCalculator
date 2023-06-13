@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        double itemPrice = 120;
+        double itemPrice = 10;
         int FREE_SHIPPING = 100;
         double totalPrice;
         double shippingPrice;
